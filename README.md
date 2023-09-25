@@ -28,7 +28,6 @@ This project is a clone of the Bose website, a well-known audio equipment manufa
 - **Footer:** The website features a footer section with a background image.
 
 ## Project Preview:
-    - [DEMO LINK](https://dmytro-popovych.github.io/bose-landing/)
-
+- [DEMO LINK](https://dmytro-popovych.github.io/bose-landing/)
 
 
